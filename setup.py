@@ -35,9 +35,9 @@ setuptools.setup(
     ],
     packages=setuptools.find_packages(exclude="tests"),
     install_requires=[
-        "marshmallow==3.7.1",
-        "requests==2.24.0",
-        "click==7.1.2",
+        "marshmallow>=3.7.1",
+        "requests>=2.27.0",
+        "click>=7.1.2",
     ],
     entry_points={"console_scripts": ["remo = remo.cli:main"]},
 )
