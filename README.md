@@ -1,4 +1,4 @@
-# Python Client for Nature Remo API
+# THIS IS ONLY THE FORK OF [NATURE REMO PACKAGE](https://github.com/morinokami/nature-remo.git)
 
 [![PyPI version](https://badge.fury.io/py/nature-remo.svg)](https://badge.fury.io/py/nature-remo)
 ![Test](https://github.com/morinokami/nature-remo/workflows/Test/badge.svg)
